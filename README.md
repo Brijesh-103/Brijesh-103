@@ -7,7 +7,7 @@
 </h2>
 <!--
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Brijesh-103"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 -->
 <p align="center"> 
@@ -28,7 +28,6 @@
  </a>
  <a href="https://youtube.com/@vaishnav_ras_kirtan" target="_blank">
   <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="brijesh" />
- </a> 
 </p>
 <br />
 <br />
