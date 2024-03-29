@@ -14,7 +14,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Brijesh Shekhda">「 Google Me 」</a>
     <br>
-    「 I'm a versatile developer skilled in<b> Flutter</b> and <b> web development</b>, blending my passion for coding with a background in <b>microbiology</b>. Combining creativity and technical prowess, I craft innovative solutions. With a love for <b>learning</b> and <b>problem-solving</b>, I strive to make meaningful contributions in both technology and science domains. 」
+    「 I'm a versatile developer skilled in<b> Flutter</b> and <b> web development</b>, blending my passion for coding with a background in <b>Microbiology</b>. Combining creativity and technical prowess, I craft innovative solutions. With a love for <b>learning</b> and <b>problem-solving</b>, I strive to make meaningful contributions in both technology and science domains. 」
     <br>
     <br>
   </samp>
