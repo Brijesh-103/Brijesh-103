@@ -91,6 +91,8 @@
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Brijesh-103&repo=ASP.NET_CALCULATOR&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Brijesh-103/ASP.NET_CALCULATOR)
 
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Brijesh-103&repo=CodeCraft&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Brijesh-103/CodeCraft)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Brijesh-103&repo=QrCodeGenretor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Brijesh-103/QrCodeGenretor)
+
 <p align="left">
   <a href="https://github.com/Brijesh-103?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
