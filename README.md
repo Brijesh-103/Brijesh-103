@@ -39,7 +39,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: brijeshshekhda493@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: brijesh.shekhda10@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Brijesh-103/Brijesh-103/issues)
 </p>
 <br/>
